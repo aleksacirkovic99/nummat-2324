@@ -2,7 +2,7 @@
 
 julia_version = "1.10.2"
 manifest_format = "2.0"
-project_hash = "9bdd3397d207b5330eb045cfa0ef3c9454c9a2df"
+project_hash = "18c3e2814766bb46d656d8d1deac50c702f2ba4d"
 
 [[deps.ANSIColoredPrinters]]
 git-tree-sha1 = "574baf8110975760d391c710b6341da1afa48d8c"
@@ -918,15 +918,25 @@ uuid = "41fe7b60-77ed-43a1-b4f0-825fd5a5650d"
 version = "0.2.0"
 
 [[deps.Vaje02]]
-deps = ["IJulia", "Plots", "Test"]
+deps = ["IJulia", "Test"]
 path = "Vaje02"
 uuid = "d6267224-3601-4518-956b-40f0190f698e"
 version = "0.1.0"
 
 [[deps.Vaje03]]
-deps = ["SparseArrays"]
+deps = ["SparseArrays", "Test"]
 path = "Vaje03"
 uuid = "6f966dfe-e158-425e-8be4-67cb0561743b"
+version = "0.1.0"
+
+[[deps.Vaje04]]
+path = "Vaje04"
+uuid = "e41115ab-a96b-4ed1-94ab-c10da15ad597"
+version = "0.1.0"
+
+[[deps.Vaje05]]
+path = "Vaje05"
+uuid = "894ff1e1-1a39-40c8-89d6-5d8b9bc7c113"
 version = "0.1.0"
 
 [[deps.VersionParsing]]
